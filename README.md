@@ -14,4 +14,3 @@ make && cd dist/ && ./opengl-template
 
 ## Can I do 2D with this?
 Yes, simply just remove the camera (model, view, projection), change the vertices and indices and remove the glm::vec3 cubePositions[].
-# opengl-template
